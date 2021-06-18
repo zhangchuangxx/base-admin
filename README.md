@@ -95,28 +95,3 @@ GitHub地址：https://github.com/huanzi-qch/fast-scaffold
 package pom.xml文件的同级目录下面的package
 
 ```
-## AD广告位（长期招租，如有需要请私信）<br/> 
-[阿里云服务器（ECS）等，高性能服务器，就选阿里云](https://s.click.taobao.com/zb70Vtu)<br/> 
-[虚机+服务器，独享虚机服务 1c1g 3M带宽](https://s.click.taobao.com/q9rZYtu)<br/> 
-[云服务器，企业级云服务器特惠5折](https://s.click.taobao.com/2khzUtu)<br/> 
-[全民云计算，1核1G仅需293元/年](https://s.click.taobao.com/vLrzUtu)<br/> 
-[云服务器，低至323元/年](https://s.click.taobao.com/8PG0Vtu)<br/> 
-[云服务器，十倍性能提升,最佳性价比](https://s.click.taobao.com/L110Vtu)<br/> 
-
-## QQ群<br/>
-有事请加群，有问题进群大家一起交流！
-QQ群名：Java交流群-huanzi-qch
-QQ群号：1015379123
-![](https://huanzi-qch.gitee.io/file-server/images/qq.png) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://huanzi-qch.gitee.io/file-server/images/qq.png)
-
-## 捐献<br/>
-请注意，作者五行缺钱，如果喜欢这个项目，请随意打赏！
-
-支付宝<br/>
-![](https://huanzi-qch.gitee.io/file-server/images/zhifubao.png) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://huanzi-qch.gitee.io/file-server/images/zhifubao.png) 
-
-微信<br/>
-![](https://huanzi-qch.gitee.io/file-server/images/weixin.png) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://huanzi-qch.gitee.io/file-server/images/weixin.png) 
